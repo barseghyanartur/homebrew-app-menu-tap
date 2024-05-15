@@ -8,6 +8,7 @@ app-menu-tap
 .. _app-menu: https://github.com/barseghyanartur/app-menu
 
 A `homebrew cask`_ `tap`_ for `app-menu`_ - the missing Applications Menu 
+
 for macOS.
 
 Install

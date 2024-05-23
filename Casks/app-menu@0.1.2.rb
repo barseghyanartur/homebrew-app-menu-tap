@@ -4,7 +4,7 @@ cask "app-menu@0.1.2" do
 
   url "https://github.com/barseghyanartur/app-menu/files/14272877/ApplicationMenu.zip"
   name "App Menu"
-  desc "Description of your application"
+  desc "The missing Applications Menu for macOS."
   homepage "https://github.com/barseghyanartur/app-menu"
 
   container type: :naked

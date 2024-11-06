@@ -1,4 +1,4 @@
-cask "app-menu" do
+cask "app-menu@0.1.5" do
   version "0.1.5"
   sha256 "a62a413e09433e4af9e0b3388475326a5885d09924a2714708e221351825bd05"
 

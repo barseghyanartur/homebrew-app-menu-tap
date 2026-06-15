@@ -1,8 +1,8 @@
 cask "app-menu" do
-  version "0.2"
-  sha256 "7bcb7bdfec79d9f958fdc2364db26ad52f07c33d8bd743efd0379a3f2c9caac7"
+  version "0.3"
+  sha256 "9162be3405fb6880746a742d72c0559dcfc338e8f0805af960c09f873915be91"
 
-  url "https://github.com/barseghyanartur/app-menu/releases/download/0.2/ApplicationMenu.dmg"
+  url "https://github.com/barseghyanartur/app-menu/releases/download/0.3/ApplicationMenu.dmg"
   name "App Menu"
   desc "The missing Applications Menu for macOS"
   homepage "https://github.com/barseghyanartur/app-menu"
